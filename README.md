@@ -1,4 +1,4 @@
-# Simple Chat Program
+# Socket Chat 💬
 
 This is a simple chat program written in C that allows two users to communicate with each other over a network.
 
@@ -13,7 +13,7 @@ To use the program, follow these steps:
 
 1. Compile the program using the following command:
 
-gcc chat.c -o chat
+```gcc chat.c -o chat```
 
 
 2. Start the server by running the following command:
