@@ -18,7 +18,7 @@ To use the program, follow these steps:
 
 2. Start the server by running the following command:
 
-./chat [<port>]
+```./chat [<port>]```
 
 
 If you do not specify a port number, a random port number will be used. The server will display its IP address and the port number it is listening on.
